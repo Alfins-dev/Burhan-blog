@@ -3,7 +3,7 @@
     <title>Burhan&#x27;s Blog</title>
     <link href="https://alfins-dev.github.io/Burhan-blog/feed.xml" rel="self" />
     <link href="https://alfins-dev.github.io/Burhan-blog" />
-    <updated>2024-12-03T09:01:01+07:00</updated>
+    <updated>2024-12-13T09:25:35+07:00</updated>
     <author>
         <name>Afins</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://alfins-dev.github.io/Burhan-blog/teknologi-kontainerisasi-mengenal-docker-dan-kubernetes.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/teknologi-kontainerisasi-mengenal-docker-dan-kubernetes.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/15/Docker_container_engine_logo.svg" medium="image" />
+            <category term="DevOps"/>
 
         <updated>2024-12-02T21:14:08+07:00</updated>
             <summary>
@@ -160,6 +161,7 @@
         <link href="https://alfins-dev.github.io/Burhan-blog/mengenal-lamp-stack-fondasi-web-development-modern.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/mengenal-lamp-stack-fondasi-web-development-modern.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/14/lamp-stack-1650018911880.jpeg" medium="image" />
+            <category term="DevOps"/>
 
         <updated>2024-12-02T21:13:40+07:00</updated>
             <summary>
@@ -324,6 +326,7 @@ phpinfo();
         <link href="https://alfins-dev.github.io/Burhan-blog/mengenal-package-manager-alat-penting-dalam-sistem-operasi-modern.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/mengenal-package-manager-alat-penting-dalam-sistem-operasi-modern.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/13/choose-linux-package.jpg" medium="image" />
+            <category term="Linux"/>
 
         <updated>2024-12-02T21:06:23+07:00</updated>
             <summary>
@@ -484,6 +487,7 @@ winget uninstall &lt;nama-paket&gt;
         <link href="https://alfins-dev.github.io/Burhan-blog/hypervisor-dan-virtual-machine-teknologi-virtualisasi-dalam-komputasi-modern.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/hypervisor-dan-virtual-machine-teknologi-virtualisasi-dalam-komputasi-modern.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/12/Virtualbox_logo.png" medium="image" />
+            <category term="DevOps"/>
 
         <updated>2024-12-02T21:02:50+07:00</updated>
             <summary>
@@ -615,6 +619,7 @@ winget uninstall &lt;nama-paket&gt;
         <link href="https://alfins-dev.github.io/Burhan-blog/mengenal-arsitektur-prosessor.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/mengenal-arsitektur-prosessor.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/11/cpu.jpg" medium="image" />
+            <category term="Hardware"/>
 
         <updated>2024-12-02T20:59:50+07:00</updated>
             <summary>
@@ -741,6 +746,7 @@ winget uninstall &lt;nama-paket&gt;
         <link href="https://alfins-dev.github.io/Burhan-blog/apa-itu-kernel.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/apa-itu-kernel.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/10/boot-screen.png" medium="image" />
+            <category term="Linux"/>
 
         <updated>2024-12-02T20:54:17+07:00</updated>
             <summary>
@@ -832,6 +838,7 @@ winget uninstall &lt;nama-paket&gt;
         <link href="https://alfins-dev.github.io/Burhan-blog/mengenal-linux-sistem-operasi-open-source-yang-serbaguna.html"/>
         <id>https://alfins-dev.github.io/Burhan-blog/mengenal-linux-sistem-operasi-open-source-yang-serbaguna.html</id>
         <media:content url="https://alfins-dev.github.io/Burhan-blog/media/posts/9/hero-image.fit_lim.size_1600x900.v1678673053-2.jpg" medium="image" />
+            <category term="Linux"/>
 
         <updated>2024-12-02T20:23:46+07:00</updated>
             <summary>

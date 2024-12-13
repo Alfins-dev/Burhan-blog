@@ -6,15 +6,19 @@
 </url>
 <url>
 <loc>https://alfins-dev.github.io/Burhan-blog/apa-itu-kernel.html</loc>
-<lastmod>2024-12-03T08:59:36+07:00</lastmod>
+<lastmod>2024-12-13T09:24:45+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/10/boot-screen.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
+<loc>https://alfins-dev.github.io/Burhan-blog/forum.html</loc>
+<lastmod>2024-12-13T09:30:57+07:00</lastmod>
+</url>
+<url>
 <loc>https://alfins-dev.github.io/Burhan-blog/hypervisor-dan-virtual-machine-teknologi-virtualisasi-dalam-komputasi-modern.html</loc>
-<lastmod>2024-12-03T08:51:03+07:00</lastmod>
+<lastmod>2024-12-13T09:25:10+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/12/Virtualbox_logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -45,6 +49,10 @@
 </image:image>
 </url>
 <url>
+<loc>https://alfins-dev.github.io/Burhan-blog/kontak.html</loc>
+<lastmod>2024-12-13T09:29:20+07:00</lastmod>
+</url>
+<url>
 <loc>https://alfins-dev.github.io/Burhan-blog/melampaui-hambatan.html</loc>
 <lastmod>2024-12-02T21:16:12+07:00</lastmod>
 <image:image>
@@ -62,7 +70,7 @@
 </url>
 <url>
 <loc>https://alfins-dev.github.io/Burhan-blog/mengenal-arsitektur-prosessor.html</loc>
-<lastmod>2024-12-03T08:53:25+07:00</lastmod>
+<lastmod>2024-12-13T09:24:57+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/11/cpu.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -70,7 +78,7 @@
 </url>
 <url>
 <loc>https://alfins-dev.github.io/Burhan-blog/mengenal-lamp-stack-fondasi-web-development-modern.html</loc>
-<lastmod>2024-12-03T08:44:28+07:00</lastmod>
+<lastmod>2024-12-13T09:25:27+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/14/lamp-stack-1650018911880.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -78,7 +86,7 @@
 </url>
 <url>
 <loc>https://alfins-dev.github.io/Burhan-blog/mengenal-linux-sistem-operasi-open-source-yang-serbaguna.html</loc>
-<lastmod>2024-12-02T20:49:54+07:00</lastmod>
+<lastmod>2024-12-13T09:24:33+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/9/hero-image.fit_lim.size_1600x900.v1678673053-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -90,7 +98,7 @@
 </url>
 <url>
 <loc>https://alfins-dev.github.io/Burhan-blog/mengenal-package-manager-alat-penting-dalam-sistem-operasi-modern.html</loc>
-<lastmod>2024-12-03T08:45:56+07:00</lastmod>
+<lastmod>2024-12-13T09:25:19+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/13/choose-linux-package.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -118,7 +126,7 @@
 </url>
 <url>
 <loc>https://alfins-dev.github.io/Burhan-blog/teknologi-kontainerisasi-mengenal-docker-dan-kubernetes.html</loc>
-<lastmod>2024-12-03T08:42:18+07:00</lastmod>
+<lastmod>2024-12-13T09:25:35+07:00</lastmod>
 <image:image>
 <image:loc>https://alfins-dev.github.io/Burhan-blog/media/posts/15/Docker_container_engine_logo.svg</image:loc>
 <image:title><![CDATA[]]></image:title>

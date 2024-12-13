@@ -5,6 +5,7 @@
     "home_page_url": "https://alfins-dev.github.io/Burhan-blog",
     "feed_url": "https://alfins-dev.github.io/Burhan-blog/feed.json",
     "user_comment": "",
+    "icon": "https://alfins-dev.github.io/Burhan-blog/media/website/logo-blog.svg",
     "author": {
         "name": "Afins"
     },
@@ -20,9 +21,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "DevOps"
             ],
             "date_published": "2024-12-02T21:14:08+07:00",
-            "date_modified": "2024-12-03T08:42:18+07:00"
+            "date_modified": "2024-12-13T09:25:35+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/mengenal-lamp-stack-fondasi-web-development-modern.html",
@@ -35,9 +37,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "DevOps"
             ],
             "date_published": "2024-12-02T21:13:40+07:00",
-            "date_modified": "2024-12-03T08:44:28+07:00"
+            "date_modified": "2024-12-13T09:25:27+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/mengenal-package-manager-alat-penting-dalam-sistem-operasi-modern.html",
@@ -50,9 +53,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2024-12-02T21:06:23+07:00",
-            "date_modified": "2024-12-03T08:45:56+07:00"
+            "date_modified": "2024-12-13T09:25:19+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/hypervisor-dan-virtual-machine-teknologi-virtualisasi-dalam-komputasi-modern.html",
@@ -65,9 +69,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "DevOps"
             ],
             "date_published": "2024-12-02T21:02:50+07:00",
-            "date_modified": "2024-12-03T08:51:03+07:00"
+            "date_modified": "2024-12-13T09:25:10+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/mengenal-arsitektur-prosessor.html",
@@ -80,9 +85,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "Hardware"
             ],
             "date_published": "2024-12-02T20:59:50+07:00",
-            "date_modified": "2024-12-03T08:53:25+07:00"
+            "date_modified": "2024-12-13T09:24:57+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/apa-itu-kernel.html",
@@ -95,9 +101,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2024-12-02T20:54:17+07:00",
-            "date_modified": "2024-12-03T08:59:36+07:00"
+            "date_modified": "2024-12-13T09:24:45+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/mengenal-linux-sistem-operasi-open-source-yang-serbaguna.html",
@@ -110,9 +117,10 @@
                 "name": "Afins"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2024-12-02T20:23:46+07:00",
-            "date_modified": "2024-12-02T20:49:54+07:00"
+            "date_modified": "2024-12-13T09:24:33+07:00"
         },
         {
             "id": "https://alfins-dev.github.io/Burhan-blog/selamat-datang.html",
