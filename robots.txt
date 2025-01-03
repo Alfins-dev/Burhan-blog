@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://alfins-dev.github.io/Burhan-blog/sitemap.xml
+Disallow: /
